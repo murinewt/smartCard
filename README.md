@@ -1,6 +1,6 @@
 Smartcard-MobileApp
 
-Andele dev-training first challange HTML,CSS and ECMAScript6 SmartCardMobileApp challange by facebook and Andela Dev-trainig
+Andela dev-training first challange HTML,CSS and ECMAScript6 SmartCardMobileApp challange by facebook and Andela Dev-trainig
 
 SmartCardMobileApp is an Mobile Web Application that enables people to pay using credit card
 
